@@ -1,0 +1,88 @@
+.container {
+  padding: 2rem 0;
+}
+
+/* for pc....................................... */
+
+@media only screen and (min-width: 1400px) {
+  .container {
+    max-width: 1200px;
+    margin-inline: auto;
+    /* background-color: rosybrown !important; */
+  }
+}
+/* for laptop....................................... */
+@media only screen and (max-width: 1399px) {
+  .container {
+    max-width: 1200px;
+    margin-inline: auto;
+
+    /* background-color: royalblue !important; */
+  }
+}
+/* for tablet....................................... */
+@media only screen and (max-width: 768px) {
+  .container {
+    max-width: 100%;
+    margin-inline: 0;
+    padding: 1rem;
+    /* background-color: rebeccapurple !important; */
+  }
+  .flex-wrapper {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  a.btn {
+    margin-block: 0.4rem 0 !important;
+    margin-right: 0 !important;
+  }
+  .associative_items {
+    flex-wrap: wrap;
+  }
+  .container.hero-wrapper.padding-top-87 {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .hero-item.hero-img {
+    transform: scale(0.8);
+  }
+  .program_card-main-actions {
+    gap: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .flex-Uy79i > .iou,
+  .flex-Uy79i > .iou + ul {
+    flex: 0 1 100%;
+  }
+  h1.headline-1 {
+    font-size: 2.4rem;
+  }
+  h1.headline-1.text-center {
+    margin: 0;
+    font-size: 3rem;
+    margin-bottom: 0.7rem;
+  }
+  .jumbotron {
+    border-radius: 0;
+  }
+  .hero-item:nth-child(1) {
+    align-self: center;
+    margin-top: -20rem;
+    position: relative;
+    z-index: 1;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 1rem 1.5rem;
+    border-radius: 15px;
+    backdrop-filter: blur(3px);
+  }
+}
+/* for mobile....................................... */
+@media only screen and (max-width: 480px) {
+  .container {
+    max-width: 100%;
+    /* background-color: red !important; */
+  }
+}
