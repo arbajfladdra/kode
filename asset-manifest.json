@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/kode/static/css/main.1ccc6bd0.chunk.css",
+    "main.js": "/kode/static/js/main.2a67bf53.chunk.js",
+    "main.js.map": "/kode/static/js/main.2a67bf53.chunk.js.map",
+    "runtime-main.js": "/kode/static/js/runtime-main.607ccdc4.js",
+    "runtime-main.js.map": "/kode/static/js/runtime-main.607ccdc4.js.map",
+    "static/js/2.5e5f8695.chunk.js": "/kode/static/js/2.5e5f8695.chunk.js",
+    "static/js/2.5e5f8695.chunk.js.map": "/kode/static/js/2.5e5f8695.chunk.js.map",
+    "static/js/3.ca0adf35.chunk.js": "/kode/static/js/3.ca0adf35.chunk.js",
+    "static/js/3.ca0adf35.chunk.js.map": "/kode/static/js/3.ca0adf35.chunk.js.map",
+    "index.html": "/kode/index.html",
+    "static/css/main.1ccc6bd0.chunk.css.map": "/kode/static/css/main.1ccc6bd0.chunk.css.map",
+    "static/js/2.5e5f8695.chunk.js.LICENSE.txt": "/kode/static/js/2.5e5f8695.chunk.js.LICENSE.txt",
+    "static/media/amazon.d61ef5ae.svg": "/kode/static/media/amazon.d61ef5ae.svg",
+    "static/media/as_1.5b7f4f82.svg": "/kode/static/media/as_1.5b7f4f82.svg",
+    "static/media/as_2.a114f4b0.svg": "/kode/static/media/as_2.a114f4b0.svg",
+    "static/media/as_3.37d156f5.svg": "/kode/static/media/as_3.37d156f5.svg",
+    "static/media/as_4.a2c1feb8.svg": "/kode/static/media/as_4.a2c1feb8.svg",
+    "static/media/as_5.d19b7298.svg": "/kode/static/media/as_5.d19b7298.svg",
+    "static/media/cr_1.38c76955.svg": "/kode/static/media/cr_1.38c76955.svg",
+    "static/media/cr_2.13dd2197.svg": "/kode/static/media/cr_2.13dd2197.svg",
+    "static/media/cr_3.bde7c93f.svg": "/kode/static/media/cr_3.bde7c93f.svg",
+    "static/media/de_1.4cb4b2b0.svg": "/kode/static/media/de_1.4cb4b2b0.svg",
+    "static/media/de_2.3f8a6f7d.svg": "/kode/static/media/de_2.3f8a6f7d.svg",
+    "static/media/de_3.5a0a02de.svg": "/kode/static/media/de_3.5a0a02de.svg",
+    "static/media/de_4.e37940bd.svg": "/kode/static/media/de_4.e37940bd.svg",
+    "static/media/false.6821c571.svg": "/kode/static/media/false.6821c571.svg",
+    "static/media/hero_model.398e7560.png": "/kode/static/media/hero_model.398e7560.png",
+    "static/media/hero_shape-1.9b9adac8.svg": "/kode/static/media/hero_shape-1.9b9adac8.svg",
+    "static/media/hero_shape-2.a8a0ebef.svg": "/kode/static/media/hero_shape-2.a8a0ebef.svg",
+    "static/media/logo.54e70a4f.svg": "/kode/static/media/logo.54e70a4f.svg",
+    "static/media/tm_1.c03d38d4.jpg": "/kode/static/media/tm_1.c03d38d4.jpg",
+    "static/media/true.070774ca.svg": "/kode/static/media/true.070774ca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.607ccdc4.js",
+    "static/js/2.5e5f8695.chunk.js",
+    "static/css/main.1ccc6bd0.chunk.css",
+    "static/js/main.2a67bf53.chunk.js"
+  ]
+}
